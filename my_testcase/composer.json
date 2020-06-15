@@ -1,0 +1,18 @@
+{
+    "name": "drupal/my_testcase",
+    "description": "Test Module for testcase functionality.",
+    "type": "drupal-module",
+    "keywords": [
+        "my_testcase", "unit test case", "functional test case", "test case"
+    ],
+    "authors": [
+        {
+            "name": "Ankush Gautam",
+            "homepage": "https://www.drupal.org/u/ankushgautam76gmailcom",
+            "role": "Maintainer"
+        }
+    ],
+    "require": {
+        "phpunit/phpunit": "^8"
+    }
+}
